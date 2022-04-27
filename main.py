@@ -3,7 +3,6 @@
 
 #Imports
 import smtplib
-import prompt
 
 #Main function
 def main():
